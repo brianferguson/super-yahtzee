@@ -2,7 +2,7 @@
 
 A simple twist to the classic dice game.
 
-###### Note: This is just a scorecard! You can print the [image file](https://github.com/brianferguson/super-yahtzee/blob/master/SuperYahtzeeScorecard.png) or use the [Excel file](https://github.com/brianferguson/super-yahtzee/blob/master/SuperYahtzee.xlsm) as your scorecard. The Excel file is locked to prevent any formulas from accidentally getting overwritten. The Excel file is macro-enabled to provide some simple functions like clearing the scorecard and changing 0's to scratch marks. It also allows for double clicking on the bonus Yahtzee cells to add/remove a checkmark. You can view the VBA code [here](#VBA-files).
+###### Note: **This is just a scorecard!** You can print the [image file](https://github.com/brianferguson/super-yahtzee/blob/master/SuperYahtzeeScorecard.png) or use the [Excel file](https://github.com/brianferguson/super-yahtzee/blob/master/SuperYahtzee.xlsm) as your scorecard. The Excel file is locked to prevent any formulas from accidentally getting overwritten. The Excel file is macro-enabled to provide some simple functions like clearing the scorecard and changing 0's to scratch marks. It also allows for double clicking on the bonus Yahtzee cells to add/remove a checkmark. You can view the VBA code [here](#VBA-files).
 
 #
 
